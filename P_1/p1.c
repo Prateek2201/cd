@@ -1,4 +1,4 @@
-//Strings acceptable by grammar are of form: ab*c(a+b)
+//WAP to check whether the entered string is accepted or not for a given grammar
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
